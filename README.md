@@ -20,4 +20,4 @@ This project is a clone of the Spotify user interface, developed using Next.js a
 
  ```bash
  git clone https://github.com/cesar-daniel15/tailwind-spotify.git
- cd clone-linktree
+ cd tailwind-spotify
